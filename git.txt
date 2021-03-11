@@ -1,0 +1,4 @@
+git
+git log ’ログを全部確認
+git log --oneline　’ログをラインでかくにん
+git log --oneline -n 3 'ログをラインで確認できる、3行取得
